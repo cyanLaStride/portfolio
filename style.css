@@ -3,7 +3,7 @@ body {
     color: white;
     margin: 0 0;
     width: fit-content;
-    font-family: "Lucida Console", "Courier New", monospace;
+    font-family: monospace;
 }
 
 h1 {
