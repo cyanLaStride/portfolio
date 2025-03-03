@@ -4,6 +4,7 @@ body {
     margin: 2% 2%;
     /*width: fit-content;*/
     font-family: monospace;
+    font-size: 16px;
 }
 
 li {
