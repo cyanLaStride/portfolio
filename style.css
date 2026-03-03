@@ -30,3 +30,9 @@ h2 {
     font-size: 28px;
     color: #008282;
 }
+
+topTitle {
+    height: 50px;
+    line-height: 50px;
+    vertical-align: middle;
+}
