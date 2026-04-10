@@ -1,6 +1,7 @@
 body {
     background-color: black;
     color: white;
+    height: 100%;
     margin: 2% 2%;
     /*width: fit-content;*/
     font-family: monospace;
